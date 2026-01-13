@@ -1,0 +1,1225 @@
+{
+  "countries": {
+    "US": { "code": "US", "name": "United States", "region": "Americas" },
+    "CA": { "code": "CA", "name": "Canada", "region": "Americas" },
+    "GB": { "code": "GB", "name": "United Kingdom", "region": "Europe" },
+    "FR": { "code": "FR", "name": "France", "region": "Europe" },
+    "DE": { "code": "DE", "name": "Germany", "region": "Europe" },
+    "IT": { "code": "IT", "name": "Italy", "region": "Europe" },
+    "ES": { "code": "ES", "name": "Spain", "region": "Europe" },
+    "AU": { "code": "AU", "name": "Australia", "region": "Oceania" },
+    "NZ": { "code": "NZ", "name": "New Zealand", "region": "Oceania" },
+    "JP": { "code": "JP", "name": "Japan", "region": "Asia" },
+    "CN": { "code": "CN", "name": "China", "region": "Asia" },
+    "IN": { "code": "IN", "name": "India", "region": "Asia" },
+    "BR": { "code": "BR", "name": "Brazil", "region": "Americas" },
+    "MX": { "code": "MX", "name": "Mexico", "region": "Americas" },
+    "AR": { "code": "AR", "name": "Argentina", "region": "Americas" },
+    "ZA": { "code": "ZA", "name": "South Africa", "region": "Africa" },
+    "EG": { "code": "EG", "name": "Egypt", "region": "Africa" },
+    "AE": { "code": "AE", "name": "United Arab Emirates", "region": "Middle East" },
+    "TR": { "code": "TR", "name": "Turkey", "region": "Middle East" },
+    "TH": { "code": "TH", "name": "Thailand", "region": "Asia" },
+    "SG": { "code": "SG", "name": "Singapore", "region": "Asia" },
+    "MY": { "code": "MY", "name": "Malaysia", "region": "Asia" },
+    "ID": { "code": "ID", "name": "Indonesia", "region": "Asia" },
+    "PH": { "code": "PH", "name": "Philippines", "region": "Asia" },
+    "KR": { "code": "KR", "name": "South Korea", "region": "Asia" },
+    "RU": { "code": "RU", "name": "Russia", "region": "Europe" },
+    "CH": { "code": "CH", "name": "Switzerland", "region": "Europe" },
+    "NL": { "code": "NL", "name": "Netherlands", "region": "Europe" },
+    "BE": { "code": "BE", "name": "Belgium", "region": "Europe" },
+    "AT": { "code": "AT", "name": "Austria", "region": "Europe" },
+    "SE": { "code": "SE", "name": "Sweden", "region": "Europe" },
+    "NO": { "code": "NO", "name": "Norway", "region": "Europe" },
+    "DK": { "code": "DK", "name": "Denmark", "region": "Europe" },
+    "FI": { "code": "FI", "name": "Finland", "region": "Europe" },
+    "PL": { "code": "PL", "name": "Poland", "region": "Europe" },
+    "GR": { "code": "GR", "name": "Greece", "region": "Europe" },
+    "PT": { "code": "PT", "name": "Portugal", "region": "Europe" },
+    "IE": { "code": "IE", "name": "Ireland", "region": "Europe" },
+    "PK": { "code": "PK", "name": "Pakistan", "region": "Asia" },
+    "SA": { "code": "SA", "name": "Saudi Arabia", "region": "Middle East" },
+    "AL": { "code": "AL", "name": "Albania", "region": "Europe" },
+    "AO": { "code": "AO", "name": "Angola", "region": "Africa" },
+    "AG": { "code": "AG", "name": "Antigua and Barbuda", "region": "Americas" },
+    "AZ": { "code": "AZ", "name": "Azerbaijan", "region": "Middle East" },
+    "BS": { "code": "BS", "name": "Bahamas", "region": "Americas" },
+    "BH": { "code": "BH", "name": "Bahrain", "region": "Middle East" },
+    "BB": { "code": "BB", "name": "Barbados", "region": "Americas" },
+    "BJ": { "code": "BJ", "name": "Benin", "region": "Africa" },
+    "BY": { "code": "BY", "name": "Belarus", "region": "Europe" },
+    "BA": { "code": "BA", "name": "Bosnia and Herzegovina", "region": "Europe" },
+    "BW": { "code": "BW", "name": "Botswana", "region": "Africa" },
+    "BZ": { "code": "BZ", "name": "Belize", "region": "Americas" },
+    "KH": { "code": "KH", "name": "Cambodia", "region": "Asia" },
+    "CM": { "code": "CM", "name": "Cameroon", "region": "Africa" },
+    "CO": { "code": "CO", "name": "Colombia", "region": "Americas" },
+    "CR": { "code": "CR", "name": "Costa Rica", "region": "Americas" },
+    "HR": { "code": "HR", "name": "Croatia", "region": "Europe" },
+    "CY": { "code": "CY", "name": "Cyprus", "region": "Europe" },
+    "CZ": { "code": "CZ", "name": "Czech Republic", "region": "Europe" },
+    "DJ": { "code": "DJ", "name": "Djibouti", "region": "Africa" },
+    "DM": { "code": "DM", "name": "Dominica", "region": "Americas" },
+    "DO": { "code": "DO", "name": "Dominican Republic", "region": "Americas" },
+    "EC": { "code": "EC", "name": "Ecuador", "region": "Americas" },
+    "EE": { "code": "EE", "name": "Estonia", "region": "Europe" },
+    "GQ": { "code": "GQ", "name": "Equatorial Guinea", "region": "Africa" },
+    "ET": { "code": "ET", "name": "Ethiopia", "region": "Africa" },
+    "FM": { "code": "FM", "name": "Micronesia", "region": "Oceania" },
+    "GA": { "code": "GA", "name": "Gabon", "region": "Africa" },
+    "GM": { "code": "GM", "name": "Gambia", "region": "Africa" },
+    "GE": { "code": "GE", "name": "Georgia", "region": "Asia" },
+    "GH": { "code": "GH", "name": "Ghana", "region": "Africa" },
+    "GN": { "code": "GN", "name": "Guinea", "region": "Africa" },
+    "HT": { "code": "HT", "name": "Haiti", "region": "Americas" },
+    "HU": { "code": "HU", "name": "Hungary", "region": "Europe" },
+    "IS": { "code": "IS", "name": "Iceland", "region": "Europe" },
+    "CI": { "code": "CI", "name": "Ivory Coast", "region": "Africa" },
+    "JM": { "code": "JM", "name": "Jamaica", "region": "Americas" },
+    "JO": { "code": "JO", "name": "Jordan", "region": "Middle East" },
+    "KZ": { "code": "KZ", "name": "Kazakhstan", "region": "Asia" },
+    "KE": { "code": "KE", "name": "Kenya", "region": "Africa" },
+    "XK": { "code": "XK", "name": "Kosovo", "region": "Europe" },
+    "KG": { "code": "KG", "name": "Kyrgyzstan", "region": "Asia" },
+    "LV": { "code": "LV", "name": "Latvia", "region": "Europe" },
+    "LB": { "code": "LB", "name": "Lebanon", "region": "Middle East" },
+    "LS": { "code": "LS", "name": "Lesotho", "region": "Africa" },
+    "LI": { "code": "LI", "name": "Liechtenstein", "region": "Europe" },
+    "LT": { "code": "LT", "name": "Lithuania", "region": "Europe" },
+    "LU": { "code": "LU", "name": "Luxembourg", "region": "Europe" },
+    "MW": { "code": "MW", "name": "Malawi", "region": "Africa" },
+    "MV": { "code": "MV", "name": "Maldives", "region": "Asia" },
+    "MT": { "code": "MT", "name": "Malta", "region": "Europe" },
+    "MD": { "code": "MD", "name": "Moldova", "region": "Europe" },
+    "ME": { "code": "ME", "name": "Montenegro", "region": "Europe" },
+    "MA": { "code": "MA", "name": "Morocco", "region": "Africa" },
+    "MZ": { "code": "MZ", "name": "Mozambique", "region": "Africa" },
+    "MM": { "code": "MM", "name": "Myanmar", "region": "Asia" },
+    "MK": { "code": "MK", "name": "North Macedonia", "region": "Europe" },
+    "OM": { "code": "OM", "name": "Oman", "region": "Middle East" },
+    "PA": { "code": "PA", "name": "Panama", "region": "Americas" },
+    "PE": { "code": "PE", "name": "Peru", "region": "Americas" },
+    "QA": { "code": "QA", "name": "Qatar", "region": "Middle East" },
+    "RO": { "code": "RO", "name": "Romania", "region": "Europe" },
+    "RS": { "code": "RS", "name": "Serbia", "region": "Europe" },
+    "SC": { "code": "SC", "name": "Seychelles", "region": "Africa" },
+    "SN": { "code": "SN", "name": "Senegal", "region": "Africa" },
+    "SL": { "code": "SL", "name": "Sierra Leone", "region": "Africa" },
+    "SK": { "code": "SK", "name": "Slovakia", "region": "Europe" },
+    "SI": { "code": "SI", "name": "Slovenia", "region": "Europe" },
+    "LK": { "code": "LK", "name": "Sri Lanka", "region": "Asia" },
+    "SR": { "code": "SR", "name": "Suriname", "region": "Americas" },
+    "TW": { "code": "TW", "name": "Taiwan", "region": "Asia" },
+    "TJ": { "code": "TJ", "name": "Tajikistan", "region": "Asia" },
+    "TZ": { "code": "TZ", "name": "Tanzania", "region": "Africa" },
+    "TG": { "code": "TG", "name": "Togo", "region": "Africa" },
+    "TT": { "code": "TT", "name": "Trinidad and Tobago", "region": "Americas" },
+    "UG": { "code": "UG", "name": "Uganda", "region": "Africa" },
+    "UA": { "code": "UA", "name": "Ukraine", "region": "Europe" },
+    "VC": { "code": "VC", "name": "Saint Vincent and the Grenadines", "region": "Americas" },
+    "VU": { "code": "VU", "name": "Vanuatu", "region": "Oceania" },
+    "VN": { "code": "VN", "name": "Vietnam", "region": "Asia" },
+    "ZM": { "code": "ZM", "name": "Zambia", "region": "Africa" },
+    "ZW": { "code": "ZW", "name": "Zimbabwe", "region": "Africa" }
+  },
+  "requirements": {
+    "US->CA": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "6 months",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Canada visa-free for tourism or business purposes. Valid passport required."
+    },
+    "US->GB": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "6 months",
+      "processingTime": "N/A",
+      "cost": "£10 (ETA required)",
+      "notes": "US citizens can visit the UK visa-free but need an Electronic Travel Authorization (ETA) starting January 2025. ETA is valid for 2 years."
+    },
+    "US->FR": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit France and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->DE": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Germany and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->JP": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Japan visa-free for tourism or business purposes for up to 90 days. Valid passport required."
+    },
+    "US->AU": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 3 months",
+      "processingTime": "Usually instant, up to 12 hours",
+      "cost": "AUD $20 (ETA)",
+      "notes": "US citizens need an Electronic Travel Authority (ETA) to visit Australia. Apply online through the official ETA app or website."
+    },
+    "US->CN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days (varies by visa type)",
+      "processingTime": "4-5 business days (standard), 2-3 days (express)",
+      "cost": "$140 (standard), $190 (express)",
+      "notes": "US citizens need a visa to visit China. Apply at a Chinese consulate or embassy. Tourist visas typically allow 30-90 day stays."
+    },
+    "US->IN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "$25-$100 (e-Visa)",
+      "notes": "US citizens need an e-Visa to visit India. Apply online at least 4 days before travel. Tourist e-Visa available for 30 days, 1 year, or 5 years."
+    },
+    "US->TH": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Thailand visa-free for up to 30 days. Extensions available at immigration offices."
+    },
+    "US->TR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "Usually instant, up to 48 hours",
+      "cost": "$50 (e-Visa)",
+      "notes": "US citizens need an e-Visa to visit Turkey. Apply online at least 48 hours before travel. Valid for 180 days from issue date."
+    },
+    "CA->US": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "6 months",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Canadian citizens can visit the US visa-free for tourism or business purposes."
+    },
+    "GB->US": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free (ESTA required)",
+      "notes": "UK citizens can visit the US visa-free but need an ESTA authorization."
+    },
+    "GB->FR": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "UK citizens can visit France and other Schengen countries visa-free for up to 90 days."
+    },
+    "AU->US": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free (ESTA required)",
+      "notes": "Australian citizens can visit the US visa-free but need an ESTA authorization."
+    },
+    "AU->GB": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "6 months",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Australian citizens can visit the UK visa-free for tourism or business purposes."
+    },
+    "JP->US": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free (ESTA required)",
+      "notes": "Japanese citizens can visit the US visa-free but need an ESTA authorization."
+    },
+    "IN->US": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "5-10 business days",
+      "cost": "$160",
+      "notes": "Indian citizens need a visa to visit the US. Apply at a US embassy or consulate."
+    },
+    "IN->GB": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "6 months",
+      "processingTime": "15-20 business days",
+      "cost": "£95",
+      "notes": "Indian citizens need a visa to visit the UK. Apply online through the UK visa application center."
+    },
+    "IN->CA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 6 months",
+      "processingTime": "15-30 business days",
+      "cost": "CAD $100",
+      "notes": "Indian citizens need a visa to visit Canada. Apply online or at a visa application center."
+    },
+    "IN->AU": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 3 months",
+      "processingTime": "10-15 business days",
+      "cost": "AUD $145",
+      "notes": "Indian citizens need a visa to visit Australia. Apply online for an e-Visitor or tourist visa."
+    },
+    "IN->FR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80",
+      "notes": "Indian citizens need a Schengen visa to visit France and other Schengen countries. Apply at the French embassy or consulate."
+    },
+    "IN->DE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80",
+      "notes": "Indian citizens need a Schengen visa to visit Germany and other Schengen countries. Apply at the German embassy or consulate."
+    },
+    "IN->IT": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80",
+      "notes": "Indian citizens need a Schengen visa to visit Italy and other Schengen countries. Apply at the Italian embassy or consulate."
+    },
+    "IN->ES": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80",
+      "notes": "Indian citizens need a Schengen visa to visit Spain and other Schengen countries. Apply at the Spanish embassy or consulate."
+    },
+    "IN->AE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "AED 250-350",
+      "notes": "Indian citizens need a visa to visit the UAE. E-visa available online or through airlines/hotels."
+    },
+    "IN->TH": {
+      "visaRequired": false,
+      "visaOnArrival": true,
+      "duration": "15 days",
+      "processingTime": "N/A (on arrival)",
+      "cost": "2,000 THB (on arrival)",
+      "notes": "Indian citizens can visit Thailand with visa on arrival for 15 days. E-visa also available for 30 days."
+    },
+    "IN->MY": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "2-3 business days",
+      "cost": "RM 200-400",
+      "notes": "Indian citizens need a visa to visit Malaysia. E-visa available online through the official portal."
+    },
+    "IN->SG": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "SGD 30",
+      "notes": "Indian citizens need a visa to visit Singapore. Apply online or at Singapore embassy/consulate."
+    },
+    "IN->JP": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "15-90 days",
+      "processingTime": "5-7 business days",
+      "cost": "Free (single entry) or ¥3,000 (multiple entry)",
+      "notes": "Indian citizens need a visa to visit Japan. Apply at the Japanese embassy or consulate."
+    },
+    "IN->CN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "4-7 business days",
+      "cost": "$140-$185",
+      "notes": "Indian citizens need a visa to visit China. Apply at a Chinese consulate or embassy."
+    },
+    "IN->TR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "1-3 business days",
+      "cost": "$60 (e-Visa)",
+      "notes": "Indian citizens need an e-Visa to visit Turkey. Apply online before travel."
+    },
+    "IN->NZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 3 months",
+      "processingTime": "10-15 business days",
+      "cost": "NZD $165",
+      "notes": "Indian citizens need a visa to visit New Zealand. Apply online through the official portal."
+    },
+    "IN->SA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "5-7 business days",
+      "cost": "SAR 300-500",
+      "notes": "Indian citizens need a visa to visit Saudi Arabia. Apply online for e-visa or at Saudi embassy."
+    },
+    "IN->ID": {
+      "visaRequired": false,
+      "visaOnArrival": true,
+      "duration": "30 days",
+      "processingTime": "N/A (on arrival)",
+      "cost": "$35 (on arrival)",
+      "notes": "Indian citizens can visit Indonesia with visa on arrival for 30 days."
+    },
+    "IN->PH": {
+      "visaRequired": false,
+      "visaOnArrival": true,
+      "duration": "30 days",
+      "processingTime": "N/A (on arrival)",
+      "cost": "Free (30 days)",
+      "notes": "Indian citizens can visit the Philippines visa-free for 30 days."
+    },
+    "IN->KR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "5-7 business days",
+      "cost": "Free (single entry) or KRW 50,000 (multiple entry)",
+      "notes": "Indian citizens need a visa to visit South Korea. Apply at the Korean embassy or consulate."
+    },
+    "IN->PK": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "5-7 business days",
+      "cost": "$25-$100",
+      "notes": "Indian citizens need a visa to visit Pakistan. Special application process applies. Apply at Pakistani embassy or consulate."
+    },
+    "CN->US": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "7-10 business days",
+      "cost": "$160",
+      "notes": "Chinese citizens need a visa to visit the US. Apply at a US embassy or consulate."
+    },
+    "BR->US": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free (ESTA required)",
+      "notes": "Brazilian citizens can visit the US visa-free but need an ESTA authorization."
+    },
+    "PK->US": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies by visa type (B1/B2: typically 6 months, can be up to 10 years)",
+      "processingTime": "2-4 weeks (after interview)",
+      "cost": "$185 (includes $160 application fee + $25 processing)",
+      "notes": "Pakistani citizens need a visa to visit the US. Tourist/Business visa (B1/B2) requires interview at US embassy/consulate. Processing time varies by location."
+    },
+    "PK->GB": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "6 months (standard visitor visa)",
+      "processingTime": "15-20 business days (standard), 5 days (priority), 1 day (super priority)",
+      "cost": "£115 (standard), £500 (priority), £1000 (super priority)",
+      "notes": "Pakistani citizens need a visa to visit the UK. Standard Visitor Visa allows tourism, business, or family visits. Apply at UK visa application center and provide biometrics."
+    },
+    "PK->CA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 6 months",
+      "processingTime": "14-30 business days",
+      "cost": "CAD $100 (visa fee) + CAD $85 (biometrics)",
+      "notes": "Pakistani citizens need a visa to visit Canada. Tourist visa requires application at visa application center, biometrics collection, and may require interview. Processing time varies."
+    },
+    "PK->AU": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 3 months (tourist visa)",
+      "processingTime": "10-15 business days (standard), 1-2 days (priority)",
+      "cost": "AUD $190 (tourist visa)",
+      "notes": "Pakistani citizens need a visa to visit Australia. Tourist visa (subclass 600) requires application at Australian embassy or consulate. May require biometrics and additional documents."
+    },
+    "PK->FR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80 (adults), €40 (children 6-12), Free (under 6)",
+      "notes": "Pakistani citizens need a Schengen visa to visit France and other Schengen countries. Apply at the French embassy or consulate. Schengen visa allows travel to all 27 Schengen countries."
+    },
+    "PK->DE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80 (adults), €40 (children 6-12), Free (under 6)",
+      "notes": "Pakistani citizens need a Schengen visa to visit Germany and other Schengen countries. Apply at the German embassy or consulate. Schengen visa allows travel to all 27 Schengen countries."
+    },
+    "PK->AE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days (varies by visa type)",
+      "processingTime": "5-7 business days",
+      "cost": "AED 350-850 (varies by visa type)",
+      "notes": "Pakistani citizens need a visa to visit the UAE. Visa can be sponsored by UAE residents or obtained through travel agencies. Apply at UAE embassy or through authorized visa processing centers."
+    },
+    "PK->TH": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "60 days (tourist visa)",
+      "processingTime": "3-5 business days",
+      "cost": "Free (single entry), 1,000 THB (multiple entry)",
+      "notes": "Pakistani citizens need a visa to visit Thailand. Apply at Thai embassy or consulate. Tourist visa allows 60-day stay, can be extended for 30 days in Thailand."
+    },
+    "PK->MY": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days (single entry), 90 days (multiple entry)",
+      "processingTime": "5-7 business days",
+      "cost": "RM 200 (single entry), RM 500 (multiple entry)",
+      "notes": "Pakistani citizens need a visa to visit Malaysia. Apply at Malaysian embassy or consulate. Processing time and requirements may vary."
+    },
+    "PK->TR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days (single entry), 90 days (multiple entry)",
+      "processingTime": "Usually instant, up to 48 hours",
+      "cost": "$60 (single entry), $100 (multiple entry)",
+      "notes": "Pakistani citizens need an e-Visa to visit Turkey. Apply online at least 48 hours before travel. E-visa valid for 180 days from issue date."
+    },
+    "PK->IN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days (varies by visa type)",
+      "processingTime": "5-7 business days (standard), 2-3 days (express)",
+      "cost": "$25-$80 (varies by visa type)",
+      "notes": "Pakistani citizens need a visa to visit India. Special application process with additional documentation required. Apply at Indian embassy or consulate."
+    },
+    "PK->CN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days (varies by visa type)",
+      "processingTime": "4-7 business days (standard), 2-3 days (express)",
+      "cost": "$140 (standard), $190 (express)",
+      "notes": "Pakistani citizens need a visa to visit China. Tourist visa (L visa) requires application at Chinese embassy or consulate. May require invitation letter and travel itinerary."
+    },
+    "PK->SG": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days (single entry), up to 2 years (multiple entry)",
+      "processingTime": "3-5 business days",
+      "cost": "SGD 30 (processing fee)",
+      "notes": "Pakistani citizens need a visa to visit Singapore. Apply through authorized visa agents or at Singapore embassy/consulate. May require local sponsor or detailed travel itinerary."
+    },
+    "PK->JP": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "15-90 days (varies by visa type)",
+      "processingTime": "5-7 business days (standard), 1-2 days (express)",
+      "cost": "Free (single entry tourist), ¥3,000 (multiple entry)",
+      "notes": "Pakistani citizens need a visa to visit Japan. Tourist visa requires application at Japanese embassy or consulate. May require detailed itinerary, hotel bookings, and financial proof."
+    },
+    "PK->SA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days (varies by visa type)",
+      "processingTime": "5-7 business days (e-visa)",
+      "cost": "SAR 300-500 (tourist e-visa)",
+      "notes": "Pakistani citizens need an e-visa to visit Saudi Arabia. Tourist e-visa available online for eligible travelers. Umrah visa also available through authorized agents. Apply online through official Saudi e-visa portal."
+    },
+    "US->BR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "5-10 business days",
+      "cost": "$80.90 (e-visa)",
+      "notes": "US citizens need a visa to visit Brazil (reinstated April 2025). E-visa available online. Valid for 10 years with multiple entries."
+    },
+    "US->MX": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Mexico visa-free for up to 180 days for tourism or business purposes."
+    },
+    "US->NZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 3 months",
+      "processingTime": "Usually instant, up to 72 hours",
+      "cost": "NZD $17 (NZeTA)",
+      "notes": "US citizens need a New Zealand Electronic Travel Authority (NZeTA) to visit. Apply online before travel."
+    },
+    "US->SG": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Singapore visa-free for up to 90 days for tourism or business purposes."
+    },
+    "US->MY": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Malaysia visa-free for up to 90 days for tourism or business purposes."
+    },
+    "US->KR": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit South Korea visa-free for up to 90 days for tourism or business purposes."
+    },
+    "US->AE": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit the UAE visa-free for up to 30 days. Can be extended for additional 30 days."
+    },
+    "US->PH": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit the Philippines visa-free for up to 30 days for tourism purposes."
+    },
+    "US->ID": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Indonesia visa-free for up to 30 days for tourism purposes."
+    },
+    "US->AR": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Argentina visa-free for up to 90 days for tourism or business purposes."
+    },
+    "US->ZA": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit South Africa visa-free for up to 90 days for tourism purposes."
+    },
+    "US->IT": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Italy and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->ES": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Spain and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->NL": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit the Netherlands and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->BE": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Belgium and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->AT": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Austria and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->SE": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Sweden and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->NO": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Norway and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->DK": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Denmark and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->FI": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Finland and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->PL": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Poland and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->GR": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Greece and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->PT": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Portugal and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->IE": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Ireland visa-free for up to 90 days for tourism or business purposes."
+    },
+    "US->CH": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "US citizens can visit Switzerland and other Schengen countries visa-free for up to 90 days within any 180-day period. ETIAS authorization may be required starting late 2026."
+    },
+    "US->RU": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "5-10 business days",
+      "cost": "$50-$160",
+      "notes": "US citizens need a visa to visit Russia. Apply at a Russian consulate or embassy. Processing time varies."
+    },
+    "PK->IT": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80 (adults), €40 (children 6-12), Free (under 6)",
+      "notes": "Pakistani citizens need a Schengen visa to visit Italy and other Schengen countries. Apply at the Italian embassy or consulate."
+    },
+    "PK->ES": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days within 180 days",
+      "processingTime": "10-15 business days",
+      "cost": "€80 (adults), €40 (children 6-12), Free (under 6)",
+      "notes": "Pakistani citizens need a Schengen visa to visit Spain and other Schengen countries. Apply at the Spanish embassy or consulate."
+    },
+    "PK->ID": {
+      "visaRequired": false,
+      "visaOnArrival": true,
+      "duration": "30 days",
+      "processingTime": "N/A (on arrival)",
+      "cost": "$35 (on arrival)",
+      "notes": "Pakistani citizens can visit Indonesia with visa on arrival for 30 days. Can be extended once for additional 30 days."
+    },
+    "PK->PH": {
+      "visaRequired": false,
+      "visaOnArrival": true,
+      "duration": "30 days",
+      "processingTime": "N/A (on arrival)",
+      "cost": "Free (30 days)",
+      "notes": "Pakistani citizens can visit the Philippines visa-free for 30 days. Can be extended at immigration office."
+    },
+    "PK->KR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "5-7 business days",
+      "cost": "Free (single entry), KRW 50,000 (multiple entry)",
+      "notes": "Pakistani citizens need a visa to visit South Korea. Apply at the Korean embassy or consulate."
+    },
+    "PK->NZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Up to 3 months",
+      "processingTime": "10-15 business days",
+      "cost": "NZD $211 (tourist visa)",
+      "notes": "Pakistani citizens need a visa to visit New Zealand. Tourist visa requires application at New Zealand embassy or consulate and may require biometrics."
+    },
+    "PK->BB": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "3 months",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Barbados visa-free for up to 3 months."
+    },
+    "PK->DM": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "Up to 6 months",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Dominica visa-free for up to 6 months."
+    },
+    "PK->GM": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Gambia visa-free for up to 90 days."
+    },
+    "PK->HT": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "3 months",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Haiti visa-free for up to 3 months."
+    },
+    "PK->FM": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Micronesia visa-free for up to 30 days."
+    },
+    "PK->VC": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Saint Vincent and the Grenadines visa-free for up to 30 days."
+    },
+    "PK->SC": {
+      "visaRequired": false,
+      "visaOnArrival": true,
+      "duration": "3 months",
+      "processingTime": "N/A (visitor's permit issued on arrival)",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Seychelles with a visitor's permit issued on arrival for up to 3 months."
+    },
+    "PK->TT": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Trinidad and Tobago visa-free for up to 90 days."
+    },
+    "PK->VU": {
+      "visaRequired": false,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "N/A",
+      "cost": "Free",
+      "notes": "Pakistani citizens can visit Vanuatu visa-free for up to 30 days."
+    },
+    "PK->AO": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Angola. Apply online before travel."
+    },
+    "PK->BJ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Benin. Apply online before travel."
+    },
+    "PK->BW": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Botswana. Apply online before travel."
+    },
+    "PK->KH": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "$30-$36 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Cambodia. Apply online before travel."
+    },
+    "PK->CM": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Cameroon. Apply online before travel."
+    },
+    "PK->DJ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Djibouti. Apply online before travel."
+    },
+    "PK->GQ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Equatorial Guinea. Apply online before travel."
+    },
+    "PK->ET": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "$52 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Ethiopia. Apply online before travel."
+    },
+    "PK->GA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Gabon. Apply online before travel."
+    },
+    "PK->GN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Guinea. Apply online before travel."
+    },
+    "PK->CI": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Ivory Coast. Apply online before travel."
+    },
+    "PK->KZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Kazakhstan. Apply online before travel."
+    },
+    "PK->KE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "2-3 business days",
+      "cost": "$51 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Kenya. Apply online before travel."
+    },
+    "PK->MW": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "$50 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Malawi. Apply online before travel."
+    },
+    "PK->MZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "$50 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Mozambique. Apply online before travel."
+    },
+    "PK->MM": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "28 days",
+      "processingTime": "3-5 business days",
+      "cost": "$50 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Myanmar. Apply online before travel."
+    },
+    "PK->SN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Senegal. Apply online before travel."
+    },
+    "PK->SL": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Sierra Leone. Apply online before travel."
+    },
+    "PK->LK": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "1-2 business days",
+      "cost": "$35 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Sri Lanka. Apply online before travel."
+    },
+    "PK->SR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Suriname. Apply online before travel."
+    },
+    "PK->TZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "2-3 business days",
+      "cost": "$50 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Tanzania. Apply online before travel."
+    },
+    "PK->TG": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "Varies (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Togo. Apply online before travel."
+    },
+    "PK->UG": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "90 days",
+      "processingTime": "2-3 business days",
+      "cost": "$50 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Uganda. Apply online before travel."
+    },
+    "PK->VN": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30 days",
+      "processingTime": "3-5 business days",
+      "cost": "$25 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Vietnam. Apply online before travel."
+    },
+    "PK->ZM": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "$50 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Zambia. Apply online before travel."
+    },
+    "PK->ZW": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "30-90 days",
+      "processingTime": "3-5 business days",
+      "cost": "$30 (e-Visa)",
+      "notes": "Pakistani citizens can apply for an e-Visa to visit Zimbabwe. Apply online before travel."
+    },
+    "PK->AL": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Albania. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    },
+    "PK->BA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Bosnia and Herzegovina. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    },
+    "PK->BZ": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Belize. Visa-free access available with valid US visa (multi-entry)."
+    },
+    "PK->CO": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Colombia. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    },
+    "PK->CR": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Costa Rica. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    },
+    "PK->DO": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Dominican Republic. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->EC": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Ecuador. Visa-free access available with valid US or Schengen visa (multi-entry)."
+    },
+    "PK->GE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Georgia. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->JM": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Jamaica. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->XK": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Kosovo. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->MX": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Mexico. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->ME": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Montenegro. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    },
+    "PK->MK": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit North Macedonia. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    },
+    "PK->PA": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Panama. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->PE": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Peru. Visa-free access available with valid US or UK visa (multi-entry)."
+    },
+    "PK->RS": {
+      "visaRequired": true,
+      "visaOnArrival": false,
+      "duration": "Varies",
+      "processingTime": "Varies",
+      "cost": "Varies",
+      "notes": "Pakistani citizens need a visa to visit Serbia. Visa-free access available with valid US, UK, or Schengen visa (multi-entry)."
+    }
+  }
+}
+
