@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Search, Filter, Info, X } from 'lucide-react';
+import { Search, Filter, Info } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Region, VisaStatusFilter, ExistingVisas } from '../types';
 
@@ -27,7 +27,6 @@ export function CountryFilters({
   existingVisas,
   onExistingVisasChange,
 }: CountryFiltersProps) {
-  const [showSupportMessage, setShowSupportMessage] = useState(true);
   const [showExistingVisas, setShowExistingVisas] = useState(false);
 
   const toggleExistingVisa = (key: keyof ExistingVisas) => {
